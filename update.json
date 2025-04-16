@@ -4,12 +4,12 @@
   "update": [
     {
       "name": "GAME",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_csmm_tele/refs/heads/main/Assembly-CSharp.dll",
+      "link": "https://raw.githubusercontent.com/hamsterxt309/csmm_nso_24h/refs/heads/main/Assembly-CSharp.dll",
       "path": "NinjaSchool_CLTX_24H_Data\\Managed\\"
     },
     {
       "name": "QLTK_Ninja",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_csmm_tele/refs/heads/main/QLTK_Ninja.exe",
+      "link": "https://raw.githubusercontent.com/hamsterxt309/csmm_nso_24h/refs/heads/main/QLTK_Ninja.exe",
       "path": ""
     }
   ]
