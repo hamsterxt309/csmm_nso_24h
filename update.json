@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "notification": "ABC.",
+  "version": "1.2",
+  "notification": "Fix thời gian.",
   "update": [
     {
       "name": "GAME",
