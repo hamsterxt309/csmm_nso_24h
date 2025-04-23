@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
-  "notification": "Giao dịch xa, hiện rút.",
+  "version": "1.4",
+  "notification": "Từ chối tỷ thí.",
   "update": [
     {
       "name": "GAME",
