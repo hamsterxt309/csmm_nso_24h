@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
-  "notification": "Từ chối tỷ thí.",
+  "version": "1.5",
+  "notification": "Lỗi tải cược lên server.",
   "update": [
     {
       "name": "GAME",
