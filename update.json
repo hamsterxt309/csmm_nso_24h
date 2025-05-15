@@ -1,6 +1,6 @@
 {
-  "version": "1.5",
-  "notification": "Lỗi tải cược lên server.",
+  "version": "1.6",
+  "notification": "Thêm xóa lsgd theo ngày.",
   "update": [
     {
       "name": "GAME",
