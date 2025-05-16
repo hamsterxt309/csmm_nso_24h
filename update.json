@@ -1,6 +1,6 @@
 {
-  "version": "1.6",
-  "notification": "Thêm xóa lsgd theo ngày.",
+  "version": "1.7",
+  "notification": "Trả kèo < 30s.",
   "update": [
     {
       "name": "GAME",
