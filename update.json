@@ -1,6 +1,6 @@
 {
-  "version": "1.7",
-  "notification": "Trả kèo < 30s.",
+  "version": "1.8",
+  "notification": "Thay hosting.",
   "update": [
     {
       "name": "GAME",
